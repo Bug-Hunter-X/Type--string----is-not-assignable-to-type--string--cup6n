@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: Argument of type 'string[]' is not assignable to parameter of type 'string'. The `greeter` function expects a string as input, but it's receiving an array of strings. The solution involves either modifying the `greeter` function to accept an array or modifying how the variable `user` is handled.
